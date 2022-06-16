@@ -1,2 +1,5 @@
-# now-we-work
-my repository for a start
+# Now-we-work
+
+My repository for a start
+
+I love :coffee: :pizza:, and :dancer:.
